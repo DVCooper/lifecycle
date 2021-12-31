@@ -2,3 +2,4 @@ blue hat1 나는 이제 유명해
 asd
 yellow glove
 txt file change
+golden helm
